@@ -1,0 +1,29 @@
+.card{
+    align-items: center;
+    width: 18rem ;
+    margin: 15px;
+    border: 2px solid #cd9f12;
+}
+
+.card-img{
+    width: 40%;
+}
+
+.like{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right:15px;
+    padding-top:5px;
+    width:100%;
+}
+
+.like-btn{
+    background-color: transparent;
+    border-style: none;
+}
+
+
+.btn{
+    background-color: #00225a ;
+    color: #f9cf51;
+}
